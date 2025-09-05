@@ -8,11 +8,6 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
 </div>
-  
-  ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/arch-linux-provisioner?style=flat-square)
-  ![GitHub issues](https://img.shields.io/github/issues/yourusername/arch-linux-provisioner?style=flat-square)
-  ![License](https://img.shields.io/github/license/yourusername/arch-linux-provisioner?style=flat-square)
-</div>
 
 ## ✨ Features
 
