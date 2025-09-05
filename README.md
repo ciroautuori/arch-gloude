@@ -1,7 +1,14 @@
+# 🚀 Arch Linux Provisioner
+
+
 <div align="center">
   <h3>Automated Arch Linux provisioning with Docker on Google Cloud</h3>
   <p>One-command deployment • Optimized for performance • Beautiful CLI output</p>
-
+  
+  ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/arch-linux-provisioner?style=flat-square)
+  ![GitHub issues](https://img.shields.io/github/issues/yourusername/arch-linux-provisioner?style=flat-square)
+  ![License](https://img.shields.io/github/license/yourusername/arch-linux-provisioner?style=flat-square)
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
