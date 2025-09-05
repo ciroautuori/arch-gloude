@@ -1,6 +1,6 @@
 <div align="center">
-# 🚀 Arch Linux Provisioner
-</div>
+  <h3>Automated Arch Linux provisioning with Docker on Google Cloud</h3>
+  <p>One-command deployment • Optimized for performance • Beautiful CLI output</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
 </div>
-
-<div align="center">
-  <h3>Automated Arch Linux provisioning with Docker on Google Cloud</h3>
-  <p>One-command deployment • Optimized for performance • Beautiful CLI output</p>
   
   ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/arch-linux-provisioner?style=flat-square)
   ![GitHub issues](https://img.shields.io/github/issues/yourusername/arch-linux-provisioner?style=flat-square)
