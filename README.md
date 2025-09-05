@@ -1,6 +1,3 @@
-# 🚀 Arch Linux Provisioner
-
-
 <div align="center">
   <h3>Automated Arch Linux provisioning with Docker on Google Cloud</h3>
   <p>One-command deployment • Optimized for performance • Beautiful CLI output</p>
