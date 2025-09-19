@@ -1,19 +1,12 @@
-# 🚀 Arch Linux Provisioner
-
+<div align="center">
+  <h3>Automated Arch Linux provisioning with Docker on Google Cloud</h3>
+  <p>One-command deployment • Optimized for performance • Beautiful CLI output</p>
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-</div>
-
-<div align="center">
-  <h3>Automated Arch Linux provisioning with Docker on Google Cloud</h3>
-  <p>One-command deployment • Optimized for performance • Beautiful CLI output</p>
-  
-  ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/arch-linux-provisioner?style=flat-square)
-  ![GitHub issues](https://img.shields.io/github/issues/yourusername/arch-linux-provisioner?style=flat-square)
-  ![License](https://img.shields.io/github/license/yourusername/arch-linux-provisioner?style=flat-square)
 </div>
 
 ## ✨ Features
@@ -132,5 +125,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  Made with ❤️ by Your Name | [@yourtwitter](https://twitter.com/yourtwitter)
+  Made with ❤️ by Ciro Autuori 
 </div>
